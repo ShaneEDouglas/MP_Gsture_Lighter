@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id = "@+id/Navigation_gesture"
+        android:icon = "@drawable/handicon"
+        android:title="@string/Gesture_control"
+        />
+
+    <item
+        android:id = "@+id/Navigation_light_control"
+        android:icon= "@drawable/idea"
+        android:title="@string/Gesture_Light_control"
+        />
+
+    <item
+        android:id = "@+id/Navigation_help"
+        android:icon = "@drawable/help"
+        android:title = "@string/Gesture_help"
+        />
+
+</menu>
